@@ -191,7 +191,7 @@ if bilangan_terbesar == float('-inf'):
     print("Tidak ada bilangan yang dimasukan.")
 else:
     print("Bilangan terbesar adalah:", bilangan_terbesar)
-    ```
+```
 
 Setiap angka di input akan membandingkan dengan angka yang telah di input lainnya untuk menentukan angka yang terbesar sesuai dengan perintah
 
