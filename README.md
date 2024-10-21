@@ -176,9 +176,43 @@ angka 1 diformat untuk memiliki lebar 16 Karakter atau 16 kali spasi dengan pera
 
 ![Cuplikan layar 2024-10-21 114535](https://github.com/user-attachments/assets/dfcc21c3-581d-430b-9604-775989517c37)
 
+```python
+bilangan_terbesar = float('-inf')
+
+while True:
+    bilangan = float(input("Masukan bilangan (tekan 0 untuk berhenti): "))
+    if bilangan == 0:
+        break 
+    if bilangan > bilangan_terbesar:
+        bilangan_terbesar = bilangan
+
+# memeriksa apakah ada bilangan yang dimasukkan
+if bilangan_terbesar == float('-inf'):
+    print("Tidak ada bilangan yang dimasukan.")
+else:
+    print("Bilangan terbesar adalah:", bilangan_terbesar)
+    ```
+
+Setiap angka di input akan membandingkan dengan angka yang telah di input lainnya untuk menentukan angka yang terbesar sesuai dengan perintah
+
 # Flowchart Bilangan terbesar
 
 ![github](https://github.com/user-attachments/assets/ecbc09ba-0ef2-40ec-a09e-9cfade73216f)
+
+```python
+a = int(input('Masukan bilangan petama: '))
+b = int(input('Masukan bilangan kedua: '))
+c = int(input('Masukan bilangan ketiga: '))
+
+if a > b and a > c:
+    print(f'Bilangan terbesar adalah {a}')
+elif b > a and b > c:
+    print(f'Bilangan terbesar adalah {b}')
+else:
+    print(f'Bilangan terbesar adalah {c}')
+```
+
+Program ini digunakan untuk menemukan bilangan yang terbesar dari tiga bilangan yang telah di input oleh pengguna. Program meminta tiga bilangan untuk dibandingkan dan kemudian mencetak bilangan terbesar
 
 # Berikut screenshoot program nya
 
