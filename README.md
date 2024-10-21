@@ -39,7 +39,7 @@ dan ini hasil tanpa menggunakan fungsi print() di tengah pada kode program di at
 
 ![Screenshot 2024-10-19 105727](https://github.com/user-attachments/assets/ce8c4426-642e-4460-b59e-31b88d4bd59b)
 
-## PENGGUNAAN SEREPATOR
+# PENGGUNAAN SEREPATOR
 
 ![Screenshot 2024-10-19 105946](https://github.com/user-attachments/assets/f883e3f9-751b-4be6-973a-a1720cf8d062)
 
@@ -75,7 +75,30 @@ print(w, x, y, z, sep=',')
 ```
 karena pemisahnya dihilangkan,kita menggunakan fungsi `sep`atau`split()`dan kita memasukkan pemisahnya didalam string akan memunculkan cetakan yang sesuai keinginan anda dalam memisahkan sesuatu parameter
 
-## STRING FORMAT
+# LATIHAN 2
+
+![Cuplikan layar 2024-10-21 191320](https://github.com/user-attachments/assets/544b1fa9-2860-4cd2-a27a-90c8bf6386c5)
+
+```python
+a=int(input("masukan nilai a:"))
+b=int(input("masukan nilai b:"))
+print("variable a=",a)
+print("variable b=",b)
+print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil pejumlah {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+
+Jika kita run file maka akan muncul tampilan seperti ini:
+
+![Cuplikan layar 2024-10-21 193438](https://github.com/user-attachments/assets/b16d50ae-30e1-440d-a24b-cfee32d30e85)
+
+
+# STRING FORMAT
 
 ![Screenshot 2024-10-19 112724](https://github.com/user-attachments/assets/d5f2d127-76c0-4653-996c-aa5e6d201274)
 
