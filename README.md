@@ -147,7 +147,7 @@ angka 1 diformat untuk memiliki lebar 16 Karakter atau 16 kali spasi dengan pera
 
 # Flowchart Bilangan Terbesar dari 3 Bilangan
 
-![Flowchart github](https://github.com/user-attachments/assets/4ee36676-9e6c-4c1e-8d70-852e58ee0d5b)
+![Flowchart github](https://github.com/user-attachments/assets/c669c033-cc03-4132-822e-6070a5fb905a)
 
 # Berikut screenshoot program nya
 
@@ -155,7 +155,7 @@ angka 1 diformat untuk memiliki lebar 16 Karakter atau 16 kali spasi dengan pera
 
 # Flowchart Bilangan terbesar
 
-![github](https://github.com/user-attachments/assets/ba199c91-8d59-4ce1-956c-ce1ea562c0a4)
+![github](https://github.com/user-attachments/assets/ecbc09ba-0ef2-40ec-a09e-9cfade73216f)
 
 # Berikut screenshoot program nya
 
