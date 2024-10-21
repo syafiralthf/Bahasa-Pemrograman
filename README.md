@@ -144,3 +144,19 @@ angka 1 diformat untuk memiliki lebar 16 Karakter atau 16 kali spasi dengan pera
 # PRAKTIKUM 3
 
 ![Screenshot 2024-10-19 095852](https://github.com/user-attachments/assets/18c4eb26-8df1-45df-afb3-dee64f83a5f9)
+
+# Flowchart Bilangan Terbesar dari 3 Bilangan
+
+![Flowchart github](https://github.com/user-attachments/assets/4ee36676-9e6c-4c1e-8d70-852e58ee0d5b)
+
+# Berikut screenshoot program nya
+
+![Cuplikan layar 2024-10-21 114535](https://github.com/user-attachments/assets/dfcc21c3-581d-430b-9604-775989517c37)
+
+# Flowchart Bilangan terbesar
+
+![github](https://github.com/user-attachments/assets/ba199c91-8d59-4ce1-956c-ce1ea562c0a4)
+
+# Berikut screenshoot program nya
+
+![Cuplikan layar 2024-10-21 115637](https://github.com/user-attachments/assets/c33c4ebf-bd87-45c3-b34d-7c4ad6685a32)
